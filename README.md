@@ -9,6 +9,8 @@ pip install requirement.txt
 python SimpleCaptcha.py
 ```
 
+也可以参考[ddddocr-fastapi](https://github.com/sml2h3/ddddocr-fastapi)
+
 ### 油猴添加脚本
 浏览器下载tampermoney，添加将js文件拖入安装即可
 
