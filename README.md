@@ -1,4 +1,4 @@
-# SimpleCapture
+# SimpleCaptcha
 自动识别图片验证码，基于本地ddddocr和云码
 
 ## 快速开始
@@ -6,7 +6,7 @@
 
 ```py
 pip install requirement.txt
-python SimpleCapture.py
+python SimpleCaptcha.py
 ```
 
 ### 油猴添加脚本
